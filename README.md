@@ -1,7 +1,7 @@
 # Olá, eu sou o Caio Bueno!
 
 ## Sobre mimm
-Sou estudante de Análise e Desenvolvimento de Sistemas. Estou niciando minha jornada no mundo da programação e divido meu tempo para estudar entre Programação e Educação Fisica. Estou sempre buscando aprender algo novo e superar os desafios. Atualmente estou aprendendo a desenvolver minhas habilidades de programação, começando por Full-Stack, para construir uma base sólida antes de me especializar. Busco evoluir a cada dia e aplicar meus conhecimentos em futuros projetos.
+Sou estudante de Análise e Desenvolvimento de Sistemas. Estou iniciando minha jornada no mundo da programação e divido meu tempo para estudar entre Programação e Educação Fisica. Estou sempre buscando aprender algo novo e superar os desafios. Atualmente estou aprendendo a desenvolver minhas habilidades de programação, começando por Full-Stack, para construir uma base sólida antes de me especializar. Busco evoluir a cada dia e aplicar meus conhecimentos em futuros projetos.
 
 ## Linguagens e Tecnologias 
 
