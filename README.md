@@ -23,7 +23,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Estou iniciando minha j
 ---
 *"O começo é sempre o mais difícil, mas é nele que construímos as bases para grandes conquistas."*
 
-![caio-banner](https://media.discordapp.net/attachments/998733675267104841/1395850750466457892/IMG_2976.jpg?ex=689ee290&is=689d9110&hm=f14395ff6c400d90865818457257a812fcc5ea001e4fc28a5ee4a8764fa8d324&=&format=webp)
+![caio-banner](https://media.discordapp.net/attachments/998733675267104841/1395850750466457892/IMG_2976.jpg?ex=68a8c5d0&is=68a77450&hm=fcbd7795aa1da8057a80bfec26b879929ef9ad85bf83c26ba24cf9ad523be0d8&=&format=webp)
 
 
 
